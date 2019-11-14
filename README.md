@@ -1,3 +1,4 @@
+
 # download cheng_springboot_backend project
 
 # run as Maven install to build jar
@@ -8,5 +9,3 @@
 
 # http://localhost:9999/#/
 
-# install dependencies
-npm install
