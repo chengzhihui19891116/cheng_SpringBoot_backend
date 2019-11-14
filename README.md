@@ -1,8 +1,8 @@
-# cheng_springboot_backend
-
-# copy static folder and index.html to resources's static 
+# download cheng_springboot_backend project
 
 # run as Maven install to build jar
+
+# find the jar file in the target folder,and run java -jar cheng_springboot_backend-0.0.1-SNAPSHOT.jar
 
 # run as Springboot App
 
