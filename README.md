@@ -7,3 +7,6 @@
 # run as Springboot App
 
 # http://localhost:9999/#/
+
+# install dependencies
+npm install
